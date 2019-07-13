@@ -1,2 +1,10 @@
 # Fight-FLight-or-Freeze
 Justin Hawkins Repository for project
+
+Idea for project : 
+My idea for my software will based around ‘Choose Your Own Adventure’ games. The concept is that you’re laying in bed at night. You’re in the mental state between being awake and asleep. The lamp by your bed flickers and is then turned off. Noticing this oddity, you jolt out of bed to understand what is going on. You go to your bedroom light switch, and it does not turn on. With panic, you go down the hallway, which does not seem to turn on as well. The power is cut off for your house, but you can also see the streetlight through the window in the middle of the hallway. You continue to inch closer as fear is instilled in you. You paid the electric bill, why would the power cut off for my house? By the time you reach the end of the hallway, you look down the stairs and see that the main entrance door is open. The door has no motion, there is no gage if you should bolt to the door or analyze your other decisions. The only way you can see your door is by the light cast from the street light outside. There are several variables in your decision making. The intent of the intruder and the ability of the intruder. Is this somebody who has been to your house and knows the in’s and out’s, or is this a random person? Even if the intent is just to steal, why would they cut your power off? If that’s the case, there is more intent that to just steal. You have various weapons planted around the house that you can retrieve. You as the player must weigh the option of the weapon to more time spent roaming the house in complete darkness by feel. It only takes one time to die. 
+
+Similar coded projects are : 
+  
+https://trinket.io/python/e5a03e7cbc - Mirrors a lot of how I want my game structured in terms of story-telling.
+https://letstalkdata.com/2014/08/how-to-write-a-text-adventure-in-python-part-4-the-game-loop/ - Utiles a loop, signaling the end of the game and outcome. Making it truly a seqeuntual flow.
