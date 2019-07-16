@@ -9,7 +9,7 @@
 1. [ ] Responsibility: Justin Hawkins  - Code last third of the segemented sections and run it for clarity.
 1. [ ] Responsibility: Justin Hawkins  - Run through all of the code in one sitting for bugs. Make note of the bugs in a notepad document. Go into code and itemize and fix bugs. Run through until it's perfect.
 1. [ ] Responsibility: Justin Hawkins  - Run through story and make notes that it makes sense and there are no plot holes.
-1. [ ] **This text will be bold** Responsibility: Justin Hawkins  - Upload to github and test to make sure it works and is downloadable.
+**1.** [ ] Responsibility: Justin Hawkins  - Upload to github and test to make sure it works and is downloadable.
 
 
    
