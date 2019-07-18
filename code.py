@@ -20,23 +20,29 @@ def scene1():
         return path 
       
   def checkPath(chosenPath) :
-      print("Will bolting to the door be the smartest path?")
-      time.sleep(6)
-      print("Or does hiding in the bedroom closet make sense?")
-      
+      print("You need to decide what to do")
+      time.sleep(2)
+      print("Bolting to the door seeems viable")
+      time.sleep(2)
+      print("Does hiding in the bedroom closet make sense?")
+      print()
+      time.sleep()
+     
       correctPath = random.randint(1, 2)
       
       if chosenPath == str(correctPath) :
           print("You succusfully ran out the door")
+          print("You are running and make it to the police department down the street")
       else:
           print("You hesitate, you're grabbed by a set of hands coming from the bathroom to your back")
+          print("You fade into the darkness and your fate is left with no question")
   
-  playagain = "yes"
+  playAgain = "yes"
   while playAgain == "yes" or playAgain == "y":
   scene1()
   choice = choosePath()
   checkPath(choice)
-  playagain = input ("Do you want to play again? (yes or y to continue playing) : ") 
+  playAgain = input ("Do you want to play again? (yes or y to continue playing) : ") 
        
   
 
